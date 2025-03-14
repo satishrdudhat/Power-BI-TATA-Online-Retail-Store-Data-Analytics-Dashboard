@@ -74,19 +74,19 @@ The objective of this project is to analyze the sales performance of the TATA On
 View Dashboard 1 : TATA - Online Retail Store Analytics Dashboard Data Analysis  <br>
 ![TATA - Online Retail Store Analytics Dashboard - 1](https://github.com/user-attachments/assets/3f694f31-384d-4ad8-9062-c9c558eea410)
 
-View Visual 1 :  Sum Of Revenue by Month   <br>
+View Visual 1 : Sum Of Revenue by Month   <br>
 ![TATA - Online Retail Store Analytics Dashboard - 5](https://github.com/user-attachments/assets/d1072a24-4ed9-4071-b7bd-501c7e784d2c)
 
 
-View Visual 2 : 7.	Sum of Quantity and Revenue by Country   <br>
+View Visual 2 : Sum of Quantity and Revenue by Country   <br>
 ![TATA - Online Retail Store Analytics Dashboard - 4](https://github.com/user-attachments/assets/7ccb189b-bbb9-4da7-b9dd-90026f11c9e0)
 
 
-View Visual 3 : 4.	Sum of Revenue by Total Customers   <br>
+View Visual 3 : Sum of Revenue by Total Customers   <br>
 ![TATA - Online Retail Store Analytics Dashboard - 3](https://github.com/user-attachments/assets/ade09251-165e-4937-bb99-564165c1d74c)
 
 
-View Visual 4 : 7.	Sum of Quantity by Country <br>
+View Visual 4 : Sum of Quantity by Country <br>
 ![TATA - Online Retail Store Analytics Dashboard - 2](https://github.com/user-attachments/assets/23744ece-e4c7-46b1-8aa5-79af83a850f3)
 
 ## Final Conclusion 
